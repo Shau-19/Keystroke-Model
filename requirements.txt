@@ -195,3 +195,4 @@ wrapt==1.17.2
 xgboost==2.0.3
 ydata-profiling==4.16.1
 zipp==3.21.0
+gunicorn
